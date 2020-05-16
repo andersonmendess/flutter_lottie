@@ -21,3 +21,8 @@
 ## 0.2.5
 
 * Bug fixes
+
+
+## 0.2.6
+
+* Updating android dependency to v3.4.0
